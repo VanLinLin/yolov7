@@ -66,8 +66,6 @@ while(cap.isOpened):
 
         image = image.half()
 
-    
-
         # Get the start time.
 
         start_time = time.time()
